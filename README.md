@@ -1,7 +1,7 @@
 # OpenGL-Projects
 Studies on Physical Based Rendering w/ OpenGL in C++
 
-PJ_2 covers the following topic:
+PJ_2 covers the following topic: 
 -Current Transform Matrix (CTM) 
 -view matrix transformation
 -shearing
