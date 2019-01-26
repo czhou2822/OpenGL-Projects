@@ -1,0 +1,12 @@
+﻿  example1.cpp
+c:\users\czhou4\desktop\pj_5\glslexperiment\single_line.h(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\czhou4\desktop\pj_5\glslexperiment\example1.cpp(114): warning C4101: 'texture': unreferenced local variable
+c:\users\czhou4\desktop\pj_5\glslexperiment\example1.cpp(188): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\czhou4\desktop\pj_5\glslexperiment\example1.cpp(189): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\czhou4\desktop\pj_5\glslexperiment\example1.cpp(263): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating code
+  0 of 349 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLSLExperiment.vcxproj -> C:\Users\czhou4\Desktop\pj_5\Release\GLSLExperiment.exe
