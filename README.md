@@ -24,9 +24,10 @@ PJ_4 covers the following topic:
 PJ_5 covers the following topic:
 -various image manipulation including:
   Luminance
-  Nagative
-  Edge detaction
+  Negative
+  Edge detection
   Embossing
   Toon rendering
   ...
-- Fractral Mandelbrot texture
+- Fractal Mandelbrot texture
+
